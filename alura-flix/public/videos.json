@@ -1,0 +1,82 @@
+{"videos":
+[
+    {
+      "id": 1,
+      "title": "Cómo volverse un desarrollador Front End",
+      "category": "Front End",
+      "image": "https://img.youtube.com/vi/-Ou5c3A225k/sddefault.jpg",
+      "video": "https://youtu.be/-Ou5c3A225k?si=I0XlvXX7EEu1Fgni",
+      "description": "Guía a seguir para el desarrollador de Front End"
+    },
+    
+    {
+        "id": 2,
+        "title": "¿Qué es JavaScript?",
+        "category": "Front End",
+        "image": "https://img.youtube.com/vi/GJfOSoaXk4s/sddefault.jpg",
+        "video": "https://youtu.be/GJfOSoaXk4s?si=hN2g2Fxm5LKOgmFA",
+        "description": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo?"
+      },
+      {
+        "id": 3,
+        "title": "Desarrollo Web: las diferencias entre Front-End y Back-End.",
+        "category": "Front End",
+        "image": "https://img.youtube.com/vi/aYoSI5454cg/sddefault.jpg",
+        "video": "https://youtu.be/aYoSI5454cg?si=KLXITfvZCIkRRYiy",
+        "description": "En este video, exploraremos la asociación entre el front-end y el back-end en el desarrollo web. "
+      },
+      {
+        "id": 4,
+        "title": "Explorando el poder del Back-End en el Desarrollo Web",
+        "category": "Back End",
+        "image": "https://img.youtube.com/vi/Z024LSCMqFk/sddefault.jpg",
+        "video": "https://youtu.be/Z024LSCMqFk?si=xNhuTe-EmU24kV0c",
+        "description": "Como funciona el Back End en la programacion y desarrollo web"
+      },
+   
+
+      {
+        "id": 5,
+        "title": "Simplificando el Back End",
+        "category": "Back End",
+        "image": "https://img.youtube.com/vi/XuSXJ9DUcvY/sddefault.jpg",
+        "video": "https://youtu.be/XuSXJ9DUcvY?si=CbAsNHRkQBgtdYdI",
+        "description": "En este video Bismarck Berrios nos explica qué es el back end de una manera sencilla."
+      },
+      {
+        "id": 6,
+        "title": "Descomplicando Base de Datos",
+        "category": "Back End",
+        "image": "https://img.youtube.com/vi/G1cDRqKuxpg/sddefault.jpg",
+        "video": "https://youtu.be/G1cDRqKuxpg?si=X_iEgLJat7opvvbi",
+        "description": "¿Qué es base de datos? Neste vídeo Maria Fernanda y Evelyn Reis te guiarán en el camino que debes seguir. "
+      },
+      {
+        "id": 7,
+        "title": "Consejos para crear tu Portfolio",
+        "category": "Innovación y Gestión",
+        "image": "https://img.youtube.com/vi/lKaXteKYbSA/sddefault.jpg",
+        "video": "https://youtu.be/lKaXteKYbSA?si=-eZzPesOv089AdsA",
+        "description": "En este video la instructora Jeanmarie Quijada, te enseñara varios tips esenciales para diseñar y construir un portfolio que muestre tus habilidades y proyectos de manera profesional.  "
+      },
+      {
+        "id": 8,
+        "title": "7 Soft Skills más demandadas de 2024",
+        "category": "Innovación y Gestión",
+        "image": "https://img.youtube.com/vi/_-9grhDhxiU/sddefault.jpg",
+        "video": "https://youtu.be/_-9grhDhxiU?si=FShTDksjvw2MihR0",
+        "description": " En este video vamos a listar las 7 habilidades blandas más demandadas por las empresas en este 2024."
+      },
+      {
+        "id": 9,
+        "title": "Consejos para Desarrolladores Principiantes",
+        "category": "Innovación y Gestión",
+        "image": "https://img.youtube.com/vi/PfMQAbtcuE0/sddefault.jpg",
+        "video": "https://youtu.be/PfMQAbtcuE0?si=XXJv1kfMlpxlWy3_",
+        "description": "Confiere estos 3 consejos de como resolver algunos de los errores más comunes que casi todas las personas principiantes cometen."
+      }
+      
+    
+  ]
+}
+  
